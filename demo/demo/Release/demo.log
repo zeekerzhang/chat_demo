@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/10/12 2:08:28。
+     1>项目“C:\Users\thinkpad\Desktop\ggui\demo\demo\demo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\demo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\demo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt demoDlg.cpp
+         demoDlg.cpp
+     1>c:\users\thinkpad\desktop\ggui\demo\demo\Socket.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>demoDlg.cpp(31): fatal error C1083: 无法打开类型库文件:“ImageOle.dll”: No such file or directory
+     1>已完成生成项目“C:\Users\thinkpad\Desktop\ggui\demo\demo\demo.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.34
